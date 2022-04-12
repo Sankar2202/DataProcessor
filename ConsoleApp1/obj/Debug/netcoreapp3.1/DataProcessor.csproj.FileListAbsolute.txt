@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataProcessor.exe
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataProcessor.deps.json
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataProcessor.runtimeconfig.json
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataProcessor.runtimeconfig.dev.json
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataProcessor.dll
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\DataProcessor.pdb
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataProcessor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataProcessor.AssemblyInfo.cs
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataProcessor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataProcessor.dll
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataProcessor.pdb
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataProcessor.genruntimeconfig.cache
+C:\Users\User\source\repos\DataProcessor\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\DataProcessor.csprojAssemblyReference.cache
